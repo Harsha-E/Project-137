@@ -1,2 +1,2 @@
-# Planet-Api-App
-Get planets details
+# PRO-C137: REACT-NATIVE APP
+
